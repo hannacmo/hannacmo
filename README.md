@@ -1,6 +1,6 @@
 ## hannacmo
-- 🌱 aspirante a dev front-end
-- 😄 pronomes: ela/dela
+- 🖥️ aspirante a dev front-end
+- 👩‍🚀 pronomes: ela/dela
 
 ## redes sociais
 <div>
