@@ -1,5 +1,5 @@
 ## hannacmo
-- 🖥️ aspirante a dev front-end
+- 🖥️ vibe coding
 - 👩‍🚀 pronomes: ela/dela
 
 ## redes sociais
